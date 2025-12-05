@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "547e71fd11316805",
+    "type": "split",
+    "children": [
+      {
+        "id": "116c863b9dce6db5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c22ea607c846746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Rought Notes/R.Manipulação de Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R.Manipulação de Strings"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c2625e0c706a557",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f5cf9fb43bae56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310e297b7be44b22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "13ec5e63bd4f4b77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "10f8654297454e5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a0941901a883a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4dafc260315f80d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10f46772c157565",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parâmetros.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Parâmetros"
+            }
+          },
+          {
+            "id": "c58c26b766e06ba2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "17d91871d94b400f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "0d0ffa6b910c9baa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c159bae416049ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parâmetros.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Parâmetros"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a63b6e2e4dc68729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcbae439a5a350e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parâmetros.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Parâmetros"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "310e297b7be44b22",
+  "lastOpenFiles": [
+    "Full Notes/Conceitos/Argumentos.md",
+    "1. Rought Notes/R.Módulos.md",
+    "4. Templates/Nota de funções.md",
+    "4. Templates/Nota Genérica.md",
+    "Full Notes/Conceitos/Tipos Primitivos.md",
+    "Full Notes/Conceitos/Objetos de Mapeamento.md",
+    "Full Notes/Conceitos/Metaclasses.md",
+    "Full Notes/Conceitos/Iteráveis.md",
+    "Full Notes/Conceitos/Iteração.md",
+    "Full Notes/Conceitos/Estruturas de Repetição.md",
+    "Full Notes/Conceitos/Estrutura Condicional.md",
+    "Full Notes/Conceitos/Comprehension.md",
+    "Full Notes/Conceitos/Entrada e Saída de Dados.md",
+    "Full Notes/Tipos de Dados/Tipos Primitivos/str.md",
+    "1. Rought Notes/R.Manipulação de Strings.md",
+    "Full Notes/Tipos de Dados/Tipos Primitivos/int.md",
+    "Full Notes/Tipos de Dados/Tipos Primitivos/float.md",
+    "Full Notes/Tipos de Dados/Tipos Primitivos/bool.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/Métodos/Métodos tuple.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/Métodos/Métodos set.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/Métodos/Métodos list.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/tuple.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/set.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/dict.md",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/list.md",
+    "Full Notes/Tipos de Dados/Funções/Funções.md",
+    "Full Notes/Tipos de Dados/Funções",
+    "Full Notes/Outros",
+    "Full Notes/Operadores",
+    "Full Notes/Tipos de Dados/Tipos de Coleção/Métodos",
+    "Full Notes/Tipos de Dados/Tipos Primitivos/Métodos",
+    "Full Notes/Tipos de Dados/Tipos de Coleção",
+    "Full Notes/Estruturas de Repetição",
+    "Full Notes/Tipos de Dados/Tipos Primitivos",
+    "1. Rought Notes/Estruturas Condicionais",
+    "(I",
+    "Pasted image 20251128151323.png",
+    "Pasted image 20251128151221.png",
+    "Pasted image 20251128151237.png",
+    "Pasted image 20251128151328.png",
+    "Pasted image 20251128151341.png",
+    "Pasted image 20251128151417.png",
+    "Pasted image 20251128151420.png",
+    "Pasted image 20251128151419.png",
+    "Pasted image 20251128151344.png",
+    "Pasted image 20251128151339.png"
+  ]
+}
